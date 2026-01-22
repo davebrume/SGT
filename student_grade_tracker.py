@@ -1,6 +1,6 @@
 """
 Student Grade Tracker
-SDLC Demo Project
+SDLC Project
 """
 
 # Function to assign letter grade
